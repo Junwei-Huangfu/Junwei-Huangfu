@@ -8,7 +8,7 @@ Finance & accounting background, building AI tools for investment research.
 - 📫 junweihf@outlook.com
 
 ### 📌 Projects
-- *Coming soon:* A-share financial fraud risk detection skill
+   - **[A-Share Financial Fraud Risk Skill](https://github.com/Junwei-Huangfu/ashare-fraud-risk-skill)** — LLM pipeline that detected Kangmei's cash fraud where the classic Beneish M-Score failed; 100% number grounding in automated evaluation
 <!--
 **Junwei-Huangfu/Junwei-Huangfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
