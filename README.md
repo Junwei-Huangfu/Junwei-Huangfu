@@ -1,5 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Will (Junwei Huangfu)
 
+Finance & accounting background, building AI tools for investment research.
+
+- 🎓 Master of Professional Accounting @ ANU · B.Com (Finance & Banking) @ Adelaide
+- 🔍 Focus: LLM-powered equity research — financial analysis, valuation, fraud red flags
+- 🛠️ Tools: Python · pandas · LLM APIs · Excel financial modelling
+- 📫 junweihf@outlook.com
+
+### 📌 Projects
+- *Coming soon:* A-share financial fraud risk detection skill
 <!--
 **Junwei-Huangfu/Junwei-Huangfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
